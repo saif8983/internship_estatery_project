@@ -78,28 +78,3 @@
 .navbarBar { grid-area: navbarBar; }
 
 .mainContainer { grid-area: mainContainer; }
-.left-navbar {
-  margin-left: 20px;
-  width: 100%;
-  height: 100%;
-  display:flex;
-  flex-direction:row;
-  justify-content:space-between;
-  align-items: center;
-}
-.right-navbar{
-float:right;
-margin-left: 50px;
-
-}
-
-li {
-  display: inline;
-}
-.left-navbar-home{
-  height: 100%;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-}
