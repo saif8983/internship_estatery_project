@@ -14,12 +14,19 @@ import Calendar from 'react-calendar';
 import Button from '@mui/material/Button';
 import CalendarMonthIcon from '@mui/icons-material/CalendarMonth';
 import Popover from '@mui/material/Popover';
-import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs';
-import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider'
-import TextField from '@mui/material/TextField';
-
+import FavoriteBorderOutlinedIcon from "@mui/icons-material/FavoriteBorderOutlined";
+import BedroomChildOutlinedIcon from "@mui/icons-material/BedroomChildOutlined";
+import BathtubOutlinedIcon from "@mui/icons-material/BathtubOutlined";
+import StraightenIcon from "@mui/icons-material/Straighten";
+import Card from "@mui/material/Card";
+import CardActions from "@mui/material/CardActions";
+import CardContent from "@mui/material/CardContent";
+import CardMedia from "@mui/material/CardMedia";
+import users from "../local-JSON/houseapi.json"
 const Homecomponent = () => {
   const [value, onChange] = useState(new Date());
+  const [user, updateUser] = useState(users)
+  console.log(user)
   console.log(value)
   const [anchorEl, setAnchorEl] = React.useState(null);
   const handleClick = (event) => {
@@ -33,7 +40,7 @@ const Homecomponent = () => {
   const open = Boolean(anchorEl);
   const id = open ? 'simple-popover' : undefined;
   return (
-    <Container maxWidth="100%" style={{ backgroundColor: "#E2E2EA", height: "100%" }}>
+    <Container maxWidth="100%" style={{ backgroundColor: "#E2E2EA", height: "100%"}}>
       <Box sx={{ width: '100%' }} >
         <Stack container
           direction="column"
@@ -115,9 +122,7 @@ const Homecomponent = () => {
                   <form>
                     <select style={{ border: 'none', outlined: "none", fontSize: "20px", with: "200px", backgroundColor: "white", marginBottom: "16px", fontWeight: "bolder" }}>
                       <option>$500-$2500</option>
-                      <option>two</option>
-                      <option>three</option>
-
+                      <option>$2500-$5000</option>
                     </select>
                   </form>
                 </div>
@@ -132,17 +137,63 @@ const Homecomponent = () => {
                   <form>
                     <select style={{ border: 'none', outlined: "none", fontSize: "20px", with: "200px", backgroundColor: "white", marginBottom: "16px", fontWeight: "bolder" }}>
                       <option>Houses</option>
-                      <option>two</option>
-                      <option>three</option>
+                      <option>Apartments</option>
+                      
 
                     </select>
                   </form>
                 </div>
               </Stack>
               <Divider orientation="vertical" flexItem />
-              <Button variant='contained'sx={{mr:5}} >Search</Button>
+              <Button variant='contained' sx={{ mr: 5 }} >Search</Button>
             </Box>
           </div>
+          <Grid container spacing={{ xs: 2, md: 3 }} columns={{ xs: 4, sm: 8, md: 12 }}>
+            {/*Food is array of object which map all data of it in item*/}
+            {user.map((item, index) => (
+              <Grid xs={2} sm={4} md={4} key={index}>
+                <Card sx={{ maxWidth: 345, borderRadius: "5%" }} style={{ margin: "50px" }} >
+                  <CardMedia
+                    component="img"
+                    alt="No Image"
+                    height="140"
+                    image={item.image}
+                  />
+                  <CardContent>
+                    <Stack
+                      container
+                      direction="row"
+                      justifyContent="space-between"
+                      alignItems="center"
+                    >
+                      <Typography color="primary" gutterBottom variant="h5" component="div">
+                        ${item.price}
+                      </Typography>
+                      <FavoriteBorderOutlinedIcon />
+                    </Stack>
+                    <Typography gutterBottom variant="h5" component="div">
+                      {item.title}
+                    </Typography>
+                    <Typography variant="body2" color="text.secondary">
+                      {item.address}
+                    </Typography>
+                  </CardContent>
+                  <CardActions>
+                    <Button size="small">
+                      <BedroomChildOutlinedIcon />{item.bed}
+                    </Button>
+                    <Button size="small">
+                      <BathtubOutlinedIcon />{item.bathroom}
+                    </Button>
+                    <Button size="small">
+                      <StraightenIcon />
+                      {item.size}
+                    </Button>
+                  </CardActions>
+                </Card>
+              </Grid>
+            ))}
+          </Grid>
         </Stack>
       </Box>
     </Container>

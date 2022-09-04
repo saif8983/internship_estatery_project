@@ -13,7 +13,7 @@ import HomeIcon from '@mui/icons-material/Home';
 const pages = ['Rent', 'Buy', 'sell'];
 const Navbar = () => {
   return (
-    <AppBar style={{ background: 'white', boxShadow: "none" }}>
+    <AppBar sx={{position:"static"}} style={{ background: 'white' }}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <HomeIcon color='primary' sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
