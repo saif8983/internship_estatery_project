@@ -6,9 +6,10 @@
         "address": "936 West End Ave, New York, NY 10025 ",
         "category": "House",
         "image": "/images/image1.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Tue Sep 06 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 2,
@@ -17,9 +18,10 @@
         "address": "12 W 44TH St, New York, NY 10036 .",
         "category": "House",
         "image": "/images/image2.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Tue Sep 06 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 3,
@@ -28,9 +30,10 @@
         "address": "401 E 34th St, New York, NY 10016",
         "category": "House",
         "image": "/images/image3.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Tue Sep 06 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 4,
@@ -39,9 +42,10 @@
         "address": "100 W 31st St, New York, NY 10017",
         "category": "House",
         "image": "/images/image4.jpeg",
-        "bed":2,
-        "bathroom":1,
-        "size":"8×10㎡"
+        "bed": 2,
+        "bathroom": 1,
+        "size": "8×10㎡",
+        "date": "Tue Sep 06 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 5,
@@ -50,9 +54,10 @@
         "address": "271 W 47th St, New York, NY 10027",
         "category": "House",
         "image": "/images/image5.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Tue Sep 06 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 6,
@@ -61,9 +66,10 @@
         "address": "315 W 57th St, New York, NY 10045.",
         "category": "House",
         "image": "/images/image6.jpeg",
-        "bed":2,
-        "bathroom":1,
-        "size":"6×10㎡"
+        "bed": 2,
+        "bathroom": 1,
+        "size": "6×10㎡",
+        "date": "Tue Sep 06 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 7,
@@ -72,9 +78,10 @@
         "address": "401 E 34th St, New York, NY 10016",
         "category": "House",
         "image": "/images/image7.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"7×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "7×10㎡",
+        "date": "Tue Sep 06 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 8,
@@ -83,9 +90,10 @@
         "address": "235 W 48th St, New York, NY 10018",
         "category": "House",
         "image": "/images/image8.jpeg",
-        "bed":2,
-        "bathroom":2,
-        "size":"9×10㎡"
+        "bed": 2,
+        "bathroom": 2,
+        "size": "9×10㎡",
+        "date": "Tue Sep 06 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 9,
@@ -94,9 +102,10 @@
         "address": "235 W 48th St, New York, NY 10036",
         "category": "House",
         "image": "/images/image9.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Tue Sep 06 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 10,
@@ -105,9 +114,10 @@
         "address": "85 shamco St, New York, NY 10021",
         "category": "House",
         "image": "/images/image10.jpeg",
-        "bed":2,
-        "bathroom":1,
-        "size":"5×10㎡"
+        "bed": 2,
+        "bathroom": 1,
+        "size": "5×10㎡",
+        "date": "Tue Sep 06 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 11,
@@ -116,9 +126,10 @@
         "address": "95 Wall St, New York, NY 10051",
         "category": "House",
         "image": "/images/image11.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"7×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "7×10㎡",
+        "date": "Wed Sep 07 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 12,
@@ -127,9 +138,10 @@
         "address": "401 E 34th St, New York, NY 10016",
         "category": "House",
         "image": "/images/image12.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Wed Sep 07 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 13,
@@ -138,9 +150,10 @@
         "address": "282 Cabrini Blvd, New York, NY 10014",
         "category": "House",
         "image": "/images/image13.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"9×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "9×10㎡",
+        "date": "Wed Sep 07 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 14,
@@ -149,9 +162,10 @@
         "address": "50 W 34th St, New York, NY 10011",
         "category": "House",
         "image": "/images/image14.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Wed Sep 07 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 15,
@@ -160,9 +174,10 @@
         "address": "10 Hanover Sq, New York, NY 10017",
         "category": "House",
         "image": "/images/image15.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Wed Sep 07 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 16,
@@ -171,11 +186,11 @@
         "address": "95 Wall St, New York, NY 100015",
         "category": "House",
         "image": "/images/image16.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"9×10㎡"
-        },
-    
+        "bed": 4,
+        "bathroom": 2,
+        "size": "9×10㎡",
+        "date": "Wed Sep 07 2022 00:00:00 GMT+0530 (India Standard Time)"
+    },
     {
         "id": 17,
         "title": "401 E 34th St",
@@ -183,10 +198,10 @@
         "address": "401 E 34th St, New York, NY 10016.",
         "category": "House",
         "image": "/images/image17.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
-        
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Wed Sep 07 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 18,
@@ -195,10 +210,10 @@
         "address": "180 Water St, New York, NY 10038",
         "category": "House",
         "image": "/images/image18.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"7×10㎡"
-        
+        "bed": 4,
+        "bathroom": 2,
+        "size": "7×10㎡",
+        "date": "Wed Sep 07 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 19,
@@ -207,9 +222,10 @@
         "address": "248 Broome St, New York, NY 10018",
         "category": "House",
         "image": "/images/image19.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Wed Sep 07 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 20,
@@ -218,9 +234,10 @@
         "address": "610 W 150th St, New York, NY 10036",
         "category": "House",
         "image": "/images/image20.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Wed Sep 07 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 21,
@@ -229,9 +246,10 @@
         "address": "936 West End , New York, NY 10028 ",
         "category": "House",
         "image": "/images/image21.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Thu Sep 08 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 22,
@@ -240,9 +258,10 @@
         "address": "209 West 108th Street, New York, NY 10036 .",
         "category": "House",
         "image": "/images/image22.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Thu Sep 08 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 23,
@@ -251,9 +270,10 @@
         "address": "700 Fort Washington Ave, New York, NY 10017",
         "category": "House",
         "image": "/images/image23.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Thu Sep 08 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 24,
@@ -262,9 +282,10 @@
         "address": "600 W 58th St, New York, NY 10018",
         "category": "House",
         "image": "/images/image24.jpeg",
-        "bed":2,
-        "bathroom":1,
-        "size":"8×10㎡"
+        "bed": 2,
+        "bathroom": 1,
+        "size": "8×10㎡",
+        "date": "Thu Sep 08 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 25,
@@ -273,9 +294,10 @@
         "address": "Steph Street, New York, NY 10028",
         "category": "House",
         "image": "/images/image25.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Thu Sep 08 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 26,
@@ -284,9 +306,10 @@
         "address": "Down North, New York, NY 10045.",
         "category": "House",
         "image": "/images/image26.jpeg",
-        "bed":4,
-        "bathroom":3,
-        "size":"9×10㎡"
+        "bed": 4,
+        "bathroom": 3,
+        "size": "9×10㎡",
+        "date": "Thu Sep 08 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 27,
@@ -295,9 +318,10 @@
         "address": "401 F 35th St, New York, NY 10020",
         "category": "House",
         "image": "/images/image27.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"7×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "7×10㎡",
+        "date": "Thu Sep 08 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 28,
@@ -306,9 +330,10 @@
         "address": "Reen, New York, NY 10011",
         "category": "House",
         "image": "/images/image28.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"9×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "9×10㎡",
+        "date": "Thu Sep 08 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 29,
@@ -317,9 +342,10 @@
         "address": "235 Y 49th St, New York, NY 10036",
         "category": "House",
         "image": "/images/image29.jpeg",
-        "bed":4,
-        "bathroom":3,
-        "size":"8×10㎡"
+        "bed": 4,
+        "bathroom": 3,
+        "size": "8×10㎡",
+        "date": "Thu Sep 08 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 30,
@@ -328,9 +354,10 @@
         "address": "Jhon Street, New York,NY 10036",
         "category": "House",
         "image": "/images/image30.jpeg",
-        "bed":5,
-        "bathroom":3,
-        "size":"9×10㎡"
+        "bed": 5,
+        "bathroom": 3,
+        "size": "9×10㎡",
+        "date": "Thu Sep 08 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 31,
@@ -339,9 +366,10 @@
         "address": "Waterside, New York, NY 10051",
         "category": "Apartment",
         "image": "/images/image31.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"7×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "7×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 32,
@@ -350,9 +378,10 @@
         "address": "601 W 57th St, New York, NY 100016",
         "category": "Apartment",
         "image": "/images/image32.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 33,
@@ -361,9 +390,10 @@
         "address": "50 West St,  New York, NY 100014",
         "category": "Apartment",
         "image": "/images/image33.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"9×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "9×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 34,
@@ -372,9 +402,10 @@
         "address": "50 W 34th St, New York, NY 100011",
         "category": "Apartment",
         "image": "/images/image34.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 35,
@@ -383,9 +414,10 @@
         "address": "110 Wall St, New York, NY 100017",
         "category": "Apartment",
         "image": "/images/image35.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 36,
@@ -394,11 +426,11 @@
         "address": "310 E 53rd St, New York, NY 100015",
         "category": "Apartment",
         "image": "/images/image36.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"9×10㎡"
-        },
-    
+        "bed": 3,
+        "bathroom": 2,
+        "size": "9×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
+    },
     {
         "id": 37,
         "title": "Marquis Apartments",
@@ -406,10 +438,10 @@
         "address": "401 E 34th St, New York, NY 100018.",
         "category": "Apartment",
         "image": "/images/image37.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
-        
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 38,
@@ -418,10 +450,10 @@
         "address": "936 West End Ave, New York, NY 100038",
         "category": "Apartment",
         "image": "/images/image38.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"7×10㎡"
-        
+        "bed": 3,
+        "bathroom": 2,
+        "size": "7×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 39,
@@ -430,9 +462,10 @@
         "address": "11 Cooper St, New York, NY 100038",
         "category": "Apartment",
         "image": "/images/image39.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 40,
@@ -441,9 +474,10 @@
         "address": "183 Pinehurst Ave, New York, NY 100036",
         "category": "Apartment",
         "image": "/images/image40.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 41,
@@ -452,9 +486,10 @@
         "address": "784 Columbus Avenue, New York, NY 10022 ",
         "category": "Apartment",
         "image": "/images/image41.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 42,
@@ -463,9 +498,10 @@
         "address": "605 W 112th St, New York, NY 10037 .",
         "category": "Apartment",
         "image": "/images/image42.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 43,
@@ -474,9 +510,10 @@
         "address": "163 Ludlow St, New York, NY 10016",
         "category": "Apartment",
         "image": "/images/image43.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 44,
@@ -485,9 +522,10 @@
         "address": "535 W 43rd Street, New York, NY 10018",
         "category": "Apartment",
         "image": "/images/image44.jpeg",
-        "bed":2,
-        "bathroom":1,
-        "size":"8×10㎡"
+        "bed": 2,
+        "bathroom": 1,
+        "size": "8×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 45,
@@ -496,9 +534,10 @@
         "address": "567 West 170th Street, New York, NY 10027",
         "category": "Apartment",
         "image": "/images/image45.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"6×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "6×10㎡",
+        "date": "Fri Sep 09 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 46,
@@ -507,9 +546,10 @@
         "address": "The Smile, New York, NY 10048.",
         "category": "Apartment",
         "image": "/images/image46.jpeg",
-        "bed":2,
-        "bathroom":1,
-        "size":"6×10㎡"
+        "bed": 2,
+        "bathroom": 1,
+        "size": "6×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 47,
@@ -518,9 +558,10 @@
         "address": "228 E 84th St, New York, NY 10016",
         "category": "Apartment",
         "image": "/images/image47.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"7×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "7×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 48,
@@ -529,9 +570,10 @@
         "address": "13 Christopher Street, New York, NY 10028",
         "category": "Apartment",
         "image": "/images/image48.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"9×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "9×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 49,
@@ -540,9 +582,10 @@
         "address": "120 West 97th Street, New York, NY 10036",
         "category": "Apartment",
         "image": "/images/image49.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 50,
@@ -551,9 +594,10 @@
         "address": "401 E 34th St, New York, NY 100018.",
         "category": "Apartment",
         "image": "/images/image50.jpeg",
-        "bed":4,
-        "bathroom":1,
-        "size":"8×10㎡"
+        "bed": 4,
+        "bathroom": 1,
+        "size": "8×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 51,
@@ -562,9 +606,10 @@
         "address": "160 E 48th St, New York, NY 10051",
         "category": "Apartment",
         "image": "/images/image51.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"7×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "7×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 52,
@@ -573,9 +618,10 @@
         "address": "Riverton Square, New York, NY 10016",
         "category": "Apartment",
         "image": "/images/image52.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 53,
@@ -584,9 +630,10 @@
         "address": "521 West 48th Street, New York, NY 10014",
         "category": "Apartment",
         "image": "/images/image53.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"9×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "9×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 54,
@@ -595,9 +642,10 @@
         "address": "520 W 43rd St, New York, NY 10011",
         "category": "Apartment",
         "image": "/images/image54.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 55,
@@ -606,9 +654,10 @@
         "address": "145 Mulberry Street, New York, NY 10020",
         "category": "Apartment",
         "image": "/images/image55.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 56,
@@ -617,11 +666,11 @@
         "address": "93 Wall St, New York, NY 100015",
         "category": "Apartment",
         "image": "/images/image56.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"9×10㎡"
-        },
-    
+        "bed": 4,
+        "bathroom": 2,
+        "size": "9×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
+    },
     {
         "id": 57,
         "title": "106 Fort Washington ",
@@ -629,10 +678,10 @@
         "address": "106  Washington Ave,New York,NY 10013.",
         "category": "Apartment",
         "image": "/images/image57.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
-        
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 58,
@@ -641,10 +690,10 @@
         "address": "171 Suffolk Street, New York, NY 10038",
         "category": "Apartment",
         "image": "/images/image58.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"7×10㎡"
-        
+        "bed": 4,
+        "bathroom": 2,
+        "size": "7×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 59,
@@ -653,9 +702,10 @@
         "address": "521 West 48th Street, New York, NY 10018",
         "category": "Apartment",
         "image": "/images/image59.jpeg",
-        "bed":3,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 3,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     },
     {
         "id": 60,
@@ -664,8 +714,9 @@
         "address": "354 E 91st St, New York, NY 10036",
         "category": "Apartment",
         "image": "/images/image60.jpeg",
-        "bed":4,
-        "bathroom":2,
-        "size":"8×10㎡"
+        "bed": 4,
+        "bathroom": 2,
+        "size": "8×10㎡",
+        "date": "Sat Sep 10 2022 00:00:00 GMT+0530 (India Standard Time)"
     }
 ]

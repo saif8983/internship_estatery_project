@@ -83,3 +83,8 @@
 .custom-picker input {
   visibility: hidden;
 }
+.home-navbar {
+  color: #92929d;
+  width: 20vh;
+  font-family: Mulish-Regular;
+}
